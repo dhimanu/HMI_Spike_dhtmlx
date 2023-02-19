@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Plant Diagram</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="dhtmlx.js"></script>
+  <script src="plantDiagram.js"></script>
+  <script src="script.test.js"></script>
+
+</head>
+
+<body>
+  <div class="zoom-header">
+    <button class="zoomin">zoom in </button>
+    <select id="sel" class="select">
+      <option value=0.5>50%</option>
+      <option value=0.75>75%</option>
+      <option value=0.85>85%</option>
+      <option value=0.9>90%</option>
+      <option value=1 selected>100%</option>
+      <option value=1.2>120%</option>
+      <option value=1.5>150%</option>
+      <option value=1>reset</option>
+    </select>
+    <button class="zoomout"> zoom out</button>
+  </div>
+  
+<div class="main_container">
+ 
+   <div class="main_container_plant"  id="diagram"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>

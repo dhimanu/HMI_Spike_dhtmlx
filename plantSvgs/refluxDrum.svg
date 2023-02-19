@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100px" height="68px" viewBox="-0.5 -0.5 152 98">
+      <defs />
+      <g>
+        <path d="M 130 0 Q 150 0 150 25 Q 150 50 130 50" fill="none" stroke="#3ecad4"  stroke-width="3" stroke-miterlimit="10" pointer-events="all" />
+        <path d="M 0 0 Q 20 0 20 25 Q 20 50 0 50" fill="none" stroke="#3ecad4"  stroke-width="3" stroke-miterlimit="10" transform="rotate(-180,10,25)" pointer-events="all" />
+        <path d="M 20 0 L 130 0" fill="none" stroke="#3ecad4"  stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" />
+        <path d="M 20 50 L 70 50" fill="none" stroke="#3ecad4"  stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" />
+        <path d="M 120 70 L 120 65 Q 120 60 120 55 L 120 52.5 Q 120 50 125 50 L 130 50" fill="none" stroke="#3ecad4"  stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" />
+        <path d="M 80 70 L 80 65 Q 80 60 80 55 L 80 52.5 Q 80 50 75 50 L 70 50" fill="none" stroke="#3ecad4"  stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" />
+        <path d="M 84.38 60.63 Q 115.63 60.63 115.63 80.63 Q 115.63 100.63 84.38 100.63 Z" fill="#00ffff" stroke="#3ecad4"  stroke-width="3" stroke-miterlimit="10" transform="rotate(90,100.01,80.63)" pointer-events="all" />
+        <path d="M 0 29.91 L 5 35 Q 10 40.1 15 35.1 L 17.5 32.6 Q 20 30.1 25 35.1 L 27.5 37.6 Q 30 40.1 35 35.1 L 37.5 32.6 Q 40 30.1 45 35.1 L 47.5 37.6 Q 50 40.1 55 35.1 L 57.5 32.6 Q 60 30.1 65 35.1 L 67.5 37.6 Q 70 40.1 75 35.1 L 77.5 32.6 Q 80 30.1 85 35.1 L 87.5 37.6 Q 90 40.1 95 35.1 L 97.5 32.6 Q 100 30.1 105 35.1 L 107.5 37.6 Q 110 40.1 115 35.1 L 117.5 32.6 Q 120 30.1 125 35.1 L 127.5 37.6 Q 130 40.1 135 35.1 L 137.5 32.6 Q 140 30.1 145 30.1 L 150 30.1" fill="none" stroke="#3ecad4"  stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" />
+      </g>
+    </svg>

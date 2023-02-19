@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="25px" height="30px" viewBox="-0.5 -0.5 52 42">
+      <defs />
+      <g>
+        <ellipse cx="25" cy="20" rx="20" ry="20" fill="none" stroke="#3ecad4" stroke-width="2" pointer-events="all" />
+        <path d="M 50 40 L 0 40" fill="none" stroke="#3ecad4" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke" />
+        <path d="M 0 40 L 7.64 30.56" fill="none" stroke="#3ecad4" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke" />
+        <path d="M 50 40 L 42.4 30.56" fill="none" stroke="#3ecad4" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke" />
+      </g>
+    </svg>
